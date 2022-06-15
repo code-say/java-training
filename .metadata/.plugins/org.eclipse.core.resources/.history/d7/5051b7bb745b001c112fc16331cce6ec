@@ -1,6 +1,0 @@
-package EmployeeApplication;
-
-public class Programmer extends Employee {
-
-	
-}

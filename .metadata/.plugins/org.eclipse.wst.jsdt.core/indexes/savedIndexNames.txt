@@ -1,9 +1,0 @@
-INDEX VERSION 1.4+I:\capg-corejava-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-37373190.index
-2546186095.index
-3081025920.index
-2038693015.index
-1202133647.index
-2765683524.index
-1096601819.index
-434077644.index

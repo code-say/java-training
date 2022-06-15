@@ -1,9 +1,0 @@
-package EmployeeApplication;
-
-public class Employee {
-
-	private String name;
-	private String surname;
-	private int age;
-	
-}
