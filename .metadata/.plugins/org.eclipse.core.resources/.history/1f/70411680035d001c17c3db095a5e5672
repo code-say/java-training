@@ -1,0 +1,7 @@
+package javaexceptiondemos;
+
+import java.io.*;
+
+public class MultiClass {
+
+}

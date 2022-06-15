@@ -1,0 +1,36 @@
+package com.cg.markscalculate;
+
+public class StudentService {
+	
+	public int addBookService(int studentId,String sub,double marks)throws Exception{
+		System.out.println("In Service Layer : "+studentId+sub+marks);
+		
+	String grade="";
+	
+	if(marks<=50)
+	{
+		grade="C";
+	}
+	else if(marks<=70)
+	{
+		grade ="B";
+	}
+	else
+	{
+		grade = "A";
+	}
+	
+	StudentBean bookBean=new StudentBean();
+	bookBean.setStudentId(studentId);
+	bookBean.setSub(sub);
+	bookBean.setMarks(marks);
+	bookBean.setGrade(grade);
+	
+	StudentDAO bookDAO = new StudentDAO();
+    int k=  	bookDAO.addStudent(bookBean);
+	
+		return k;
+		
+	}
+
+}

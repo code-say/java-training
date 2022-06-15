@@ -1,0 +1,10 @@
+package javaexceptiondemos;
+
+import java.io.*;
+
+public class MultiClass {
+
+	public static void main(String[] args) {
+		
+	}
+}

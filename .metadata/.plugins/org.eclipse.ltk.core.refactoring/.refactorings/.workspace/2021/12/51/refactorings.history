@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;ArrayListDemo&apos; to &apos;iArrayListDemo&apos;" description="Rename resource &apos;ArrayListDemo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ArrayListDemo" name="iArrayListDemo" stamp="1639436696786" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Collection Framework&apos; to &apos;CollectionFramework&apos;" description="Rename resource &apos;Collection Framework&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Collection Framework" name="CollectionFramework" stamp="1639626311826" updateReferences="true"/>
+</session>

@@ -1,0 +1,8 @@
+package javaexceptiondemos;
+
+public class javaExceptiondemos {
+
+	public static void main(String[] args) {
+		
+	}
+}

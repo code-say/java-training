@@ -1,0 +1,13 @@
+
+public interface EmployeeServices {
+
+	public boolean incrementSalary(int empno, double amnt);
+	
+	public void setEmployeeDAO(EmployeeDAO ed) {
+		EmployeeDAO=ed;
+	}
+	
+	double sal=employeeDAO.getSal(empno);
+}
+
+
